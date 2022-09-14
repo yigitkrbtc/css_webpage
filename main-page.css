@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>myPhone</title>
+  <link rel="stylesheet" href="css/st.css">
+</head>
+<body>
+  <header>
+    <h1>myPhone</h1>
+    <a href="main-page.html">Main Page</a>
+    <a href="products.html">Products</a>
+    <a href="about-us.html">About Us</a>
+    <h2>Main Page</h2>
+  </header>
+   <section>
+    <article>
+      <p class="p-about-us">Welcome to our webpage. On this site you can find iPhone models. You can visit our products page for our affordable prices  and quality products. </p>
+      <br>
+    
+      <p class="p-about-us">Phone models avaliable on our webpage</p>
+      <br>
+      <ul class="ul-main"> 
+        <li>iPhone 14 </li>
+        <li>iPhone 13</li>
+        <li>iPhone 12</li>
+        <li>iPhone 11</li>
+        <li>iPhone SE</li> 
+      </ul>
+  
+    </article>
+   </section>
+
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+  }
+.p-head{
+     color: darkgoldenrod;
+     font-family: 'Assistant', sans-serif;
+     font-size:x-large;
+
+}
+.list-head{
+
+    color:darkorange;
+    font-family: 'Assistant', sans-serif;
+    font-size: large;
+}
+.features{
+
+    color:darkred ;
+    font-family: 'Assistant', sans-serif;
+    font-size: medium;
+}
+
+body {
+    text-align: center;
+}
+ul,p,ol{
+    list-style-position: inside
+    
+}
+h2{
+    font-family: 'Assistant', sans-serif;
+    color: indianred;
+    font-size: 50px
+}
+h1{
+
+    font-family: 'Assistant', sans-serif;
+    color: chocolate;
+    font-size: 70px
+}
+a{
+
+    font-family: 'Assistant', sans-serif;
+    color: chocolate;
+    font-size: 20px;
+}
+body{
+    background-color: beige;
+}
+.p-about-us{
+    font-family: 'Assistant', sans-serif;
+    color: brown;
+}
+.ul-main{
+    font-family: 'Assistant', sans-serif;
+  list-style-position: inside;
+  list-style-image: linear-gradient(to left bottom, red, blue);
+  color: brown;
+  font-size: 20px;
+}
+a:link, a:visited {
+    background-color:brown;
+    color: white;
+    padding: 13px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 2px;
+  }
